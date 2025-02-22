@@ -1,0 +1,31 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Ignore logs and cache
+logs/
+*.log
+
+# Ignore build and dependency files
+build/
+dist/
+*.egg-info/
+
+# Ignore assets that should not be tracked
+#/assets/sounds/*.wav
+#/assets/images/*.psd  # If working with Photoshop
