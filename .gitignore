@@ -28,4 +28,4 @@ dist/
 
 # Ignore assets that should not be tracked
 #/assets/sounds/*.wav
-#/assets/images/*.psd  # If working with Photoshop
+/assets/images/*.psd
